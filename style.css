@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #fff0f5;
+}
+
+.showTemp {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.allIndex {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
