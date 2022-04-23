@@ -1,16 +1,18 @@
 body {
   font-family: sans-serif;
-  text-align: right;
+  text-align: center;
   background-color: hsl(332, 70%, 91%);
 }
 
 .showTemp {
+  text-align: center;
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
 .allIndex {
+  text-align: center;
   list-style: none;
   padding: 0;
   margin: 0;
