@@ -19,63 +19,67 @@
     ></script>
   </head>
   <body>
-    <form id="show-city">
-      <div class="row">
-        <div class="col-8">
-          <input type="text" placeholder="Enter a city" id="city-input" />
+    <div class="container">
+      <form id="show-city">
+        <div class="row">
+          <div class="col-8">
+            <input type="text" placeholder="Enter a city" id="city-input" />
+          </div>
+          <div class="col-4">
+            <input type="submit" value="Search" class="button" />
+          </div>
         </div>
-        <div class="col-4">
-          <input type="submit" value="Search" class="button" />
+      </form>
+
+      <h1>Los Angeles</h1>
+      <p class="date">Thursday, March 3, 2022 21:22</p>
+
+      <h2><i class="fa-solid fa-sun" id="description"> </i></h2>
+
+      <ul class="showTemp">
+        <li class="temperature">26</li>
+        <li class="unit">
+          <a href="" class="celcius">°C </a> |
+          <a href="" class="farenheit">°F</a>
+        </li>
+      </ul>
+
+      <ul class="allIndex">
+        <li class="index">Humidity: <span id="humidity">26</span>%</li>
+        <li class="index">Wind: <span id="wind">6</span> mph</li>
+        <li class="index">Feel Like: <span id="feelLike"></span>°</li>
+      </ul>
+
+      <div class="row days">
+        <div class="col-3 day">
+          <p>Mon</p>
+          <i class="fa-solid fa-sun"></i>
+          <p>24°</p>
+        </div>
+        <div class="col-3 day">
+          <p>Tue</p>
+          <i class="fa-solid fa-cloud-sun"></i>
+          <p>22°</p>
+        </div>
+        <div class="col-3 day">
+          <p>Wed</p>
+          <i class="fa-solid fa-sun"></i>
+          <p>28°</p>
+        </div>
+        <div class="col-3 day">
+          <p>Thu</p>
+          <i class="fa-solid fa-cloud-sun"></i>
+          <p>25°</p>
         </div>
       </div>
-    </form>
 
-    <h1>Los Angeles</h1>
-    <p class="date">Thursday, March 3, 2022 21:22</p>
-
-    <h2><i class="fa-solid fa-sun" id="description"> </i></h2>
-
-    <ul class="showTemp">
-      <li class="temperature">26</li>
-      <li class="unit">
-        <a href="" class="celcius">°C </a> |
-        <a href="" class="farenheit">°F</a>
-      </li>
-    </ul>
-
-    <ul class="allIndex">
-      <li class="index">Humidity: <span id="humidity">26</span>%</li>
-      <li class="index">Wind: <span id="wind">6</span> mph</li>
-      <li class="index">Feel Like: <span id="feelLike"></span>°</li>
-    </ul>
-
-    <div class="row days">
-      <div class="col-3 day">
-        <p>Mon</p>
-        <i class="fa-solid fa-sun"></i>
-        <p>24°</p>
-      </div>
-      <div class="col-3 day">
-        <p>Tue</p>
-        <i class="fa-solid fa-cloud-sun"></i>
-        <p>22°</p>
-      </div>
-      <div class="col-3 day">
-        <p>Wed</p>
-        <i class="fa-solid fa-sun"></i>
-        <p>28°</p>
-      </div>
-      <div class="col-3 day">
-        <p>Thu</p>
-        <i class="fa-solid fa-cloud-sun"></i>
-        <p>25°</p>
+      <div class="eiko">
+        <a href="https://github.com/emiyata121/Weather-page"
+          >Open-source code</a
+        >
+        by Eiko Miyata
       </div>
     </div>
-
-    <div class="eiko">
-      <a href="https://github.com/emiyata121/Weather-page">Open-source code</a>
-      by Eiko Miyata
-    </div>
-    <script src="script.js"></script>  
+    <script src="script.js"></script>
   </body>
 </html>
