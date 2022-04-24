@@ -1,3 +1,7 @@
+body {
+  background-color: hsl(332, 70%, 91%);
+}
+
 h1 {
   text-align: center;
 }
@@ -8,7 +12,6 @@ h2 {
 #show-city {
   font-family: sans-serif;
   text-align: center;
-  background-color: hsl(332, 70%, 91%);
 }
 
 .showTemp {
