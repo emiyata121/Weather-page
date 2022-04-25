@@ -1,19 +1,23 @@
 h1 {
   text-align: center;
+  color: white;
 }
 h2 {
   text-align: center;
+  color: white;
 }
 
 #show-city {
   font-family: sans-serif;
   text-align: center;
+  color: white;
 }
 
 .container {
   background-image: url(https://images.pexels.com/photos/3783385/pexels-photo-3783385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat: no-repeat;
   background-size: cover;
+  color: white;
 }
 .day {
   border: 1px solid white;
@@ -29,9 +33,11 @@ h2 {
 
 .col-3 {
   text-align: center;
+  color: white;
 }
 
 .button {
+    color: white;
   padding: 10px;
   margin: 0 auto;
   border-radius: 20;
@@ -39,6 +45,7 @@ h2 {
 }
 
 .showTemp {
+    color: white;
   text-align: center;
   list-style: none;
   padding: 0;
@@ -46,6 +53,7 @@ h2 {
 }
 
 .allIndex {
+    color: white;
   text-align: center;
   list-style: none;
   padding: 0;
@@ -53,9 +61,11 @@ h2 {
 }
 
 .date {
+    color: white;
   text-align: center;
 }
 
 .eiko {
+    color white-space: ;
   text-align: center;
 }
