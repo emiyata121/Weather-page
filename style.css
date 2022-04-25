@@ -14,7 +14,7 @@ h2 {
 }
 
 .container {
-    border: 1px solid #58a3b8;
+  border: 1px solid #58a3b8;
   border-radius: 5px;
   display: block;
   margin: 40px auto;
@@ -43,9 +43,10 @@ h2 {
 }
 
 .button {
-border-radius: 5px;
-border: 1px solid white;
-color: white;
+  margin: 10px 20px 25px 25px;
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
   padding: 10px;
   margin: 0 auto;
   border-radius: 20;
@@ -54,7 +55,7 @@ color: white;
 }
 
 .showTemp {
-    color: white;
+  color: white;
   text-align: center;
   list-style: none;
   padding: 0;
@@ -62,7 +63,7 @@ color: white;
 }
 
 .allIndex {
-    color: white;
+  color: white;
   text-align: center;
   list-style: none;
   padding: 0;
@@ -70,11 +71,11 @@ color: white;
 }
 
 .date {
-    color: white;
+  color: white;
   text-align: center;
 }
 
 .eiko {
-    color white-space: ;
+  color: white;
   text-align: center;
 }
