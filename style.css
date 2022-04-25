@@ -76,11 +76,23 @@ padding: 5px;
   margin: 0;
 }
 
+.temperature,
+.unit {
+  display: inline-block;
+  color: white;
+  margin-top: 10px;
+}
+
 .date {
   color: white;
   text-align: center;
 }
 
+.farenheit,
+.celcius {
+  color: white;
+ 
+}
 .eiko {
   color: white;
   text-align: center;
