@@ -9,6 +9,10 @@ h2 {
   font-family: sans-serif;
   text-align: center;
 }
+
+.container {
+  background-image: url(https://as1.ftcdn.net/v2/jpg/02/11/10/90/1000_F_211109015_iV2AkmiSgDFgsx3cnpTH4l7FyFmWae28.jpg);
+}
 .day {
   border: 1px solid white;
   border-radius: 40px;
