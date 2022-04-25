@@ -43,7 +43,9 @@ h2 {
 }
 
 .button {
-    color: white;
+border-radius: 5px;
+border: 1px solid white;
+color: white;
   padding: 10px;
   margin: 0 auto;
   border-radius: 20;
