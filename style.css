@@ -88,6 +88,15 @@ h2 {
   margin: 0;
 }
 
+.index {
+  display: inline-block;
+  padding: 0 10px;
+  margin: 0 0 10px 15px;
+
+  color: white;
+  line-height: 5px;
+}
+
 .temperature,
 .unit {
   display: inline-block;
