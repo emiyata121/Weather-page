@@ -47,7 +47,8 @@ h2 {
   padding: 10px;
   margin: 0 auto;
   border-radius: 20;
-  background-color: aquamarine;
+  border-color: white;
+  background-color: transparent;
 }
 
 .showTemp {
