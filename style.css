@@ -60,6 +60,16 @@ h2 {
   color: white;
 }
 
+.button:hover {
+  color: #549cb0;
+  background-color: white;
+  border: 1px solid white;
+  margin: 10px 20px 25px 25px;
+  width: 80px;
+  padding: 5px;
+  border-radius: 5px;
+}
+
 .showTemp {
   color: white;
   text-align: center;
