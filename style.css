@@ -58,6 +58,8 @@ h2 {
   width: 80px;
   background-color: transparent;
   color: white;
+  transition: all 200ms ease-in-out;
+  display: block;
 }
 
 .button:hover {
@@ -68,6 +70,7 @@ h2 {
   width: 80px;
   padding: 5px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 .showTemp {
