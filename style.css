@@ -9,13 +9,20 @@ h2 {
   font-family: sans-serif;
   text-align: center;
 }
+.day {
+  border: 1px solid white;
+  border-radius: 40px;
+  width: 70px;
+  height: 115px;
+  text-align: center;
+  padding: 15px;
+  margin: 10px auto;
+  transition: all 200ms ease-in-out;
+  display: block;
+}
 
 .col-3 {
   text-align: center;
-}
-
-.container {
-  background-image: url(https://www.publicdomainpictures.net/pictures/150000/velka/sunset-sky-1455125487HWs.jpg);
 }
 
 .button {
