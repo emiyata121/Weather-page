@@ -65,7 +65,7 @@ function showTemperature(response) {
 function search(event) {
   event.preventDefault();
   let city = document.querySelector("#city-input").value;
-  let units = "metric";
+  let units = "imperial";
   let apiKey = "570082ab5cc0fd5735f5ad1889f23152";
   let apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=${units}`;
   axios.get(apiUrl).then(showTemperature);
