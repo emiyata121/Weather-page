@@ -93,6 +93,21 @@ padding: 5px;
   color: white;
  
 }
+
+.github {
+  text-align: center;
+  margin: 30px auto;
+  border-radius: 20px;
+  border: 0.5px solid #436e7a;
+  background-color: #32606d;
+  width: 160px;
+  font-family: fantasy;
+  font-size: 12px;
+  display: block;
+  padding: 4px;
+  color: white;
+}
+
 .eiko {
   color: white;
   text-align: center;
