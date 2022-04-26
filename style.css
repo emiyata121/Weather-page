@@ -32,7 +32,8 @@ h2 {
   background-size: cover;
   color: white;
 }
-.day {
+
+.days {
   border: 1px solid white;
   border-radius: 40px;
   width: 70px;
@@ -40,7 +41,6 @@ h2 {
   text-align: center;
   padding: 15px;
   margin: 10px auto;
-  transition: all 200ms ease-in-out;
   display: block;
 }
 
