@@ -1,4 +1,4 @@
-boyd {
+body {
   text-align: center;
 }
 
@@ -21,7 +21,7 @@ li {
   color: white;
 }
 
-.clearfix weather-temperature {
+.unit {
   text-align: center;
   color: white;
 }
@@ -35,7 +35,7 @@ li {
 }
 
 .container {
-    text-align: centerS;
+  text-align: centerS;
   border: 1px solid #549cb0;
   border-radius: 5px;
   display: block;
