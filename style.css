@@ -33,7 +33,7 @@ li {
 }
 
 #city-input {
-  margin: 10px 10px 25px 20px;
+  margin: 10px 10px 10px 20px;
   width: 300px;
   border-radius: 5px;
   border: 1px solid #549cb0;
@@ -74,7 +74,7 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   display: block;
-  margin: 10px 0 20px auto;
+  margin: 10px auto;
 }
 
 .btn-primary:hover {
