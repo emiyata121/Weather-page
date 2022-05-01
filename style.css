@@ -73,7 +73,7 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   display: block;
-  margin: 10px 25px 0 0;
+  margin: 10px 0 auto;
 }
 
 .btn-primary:hover {
