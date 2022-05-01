@@ -65,7 +65,7 @@ li {
   display: block;
 }
 
-.button {
+.input {
   text-align: center;
   border-radius: 5px;
   border: 1px solid #549cb0;
@@ -76,7 +76,7 @@ li {
   display: block;
 }
 
-.button:hover {
+.input:hover {
   color: #549cb0;
   background-color: white !important;
   border: 1px solid white;
