@@ -33,7 +33,7 @@ li {
 }
 
 #city-input {
-  margin: 10px 0 auto;
+  margin: 10px 0 0 25px;
   width: 300px;
   border-radius: 5px;
   border: 1px solid #549cb0;
