@@ -67,11 +67,6 @@ li {
 
 .col-3 {
   text-align: center;
-  color: white;
-}
-
-.col-3 {
-  padding: 5px;
   border-radius: 5px;
   border: 1px solid #549cb0;
   margin: 10px 10px 25px 20px;
