@@ -54,7 +54,7 @@ li {
   color: white;
 }
 
-.days {
+.day {
   border: 1px solid white;
   border-radius: 40px;
   width: 80px;
@@ -62,6 +62,7 @@ li {
   text-align: center;
   padding: 15px;
   margin: 10px auto;
+  display: block;
 }
 
 .button {
