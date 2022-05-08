@@ -39,6 +39,11 @@ li {
   border: 1px solid #549cb0;
 }
 
+#search-form {
+    display: block;
+
+}
+
 .container {
   text-align: centerS;
   border: 1px solid #549cb0;
