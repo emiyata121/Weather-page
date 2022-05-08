@@ -128,4 +128,3 @@ let celsius = document.querySelector("#celsius");
 celsius.addEventListener("click", displayCelsiusTemperature);
 
 search("Los Angeles");
-displayForecast();
