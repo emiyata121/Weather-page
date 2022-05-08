@@ -45,15 +45,15 @@ li {
   border-radius: 5px;
   display: block;
   margin: 40px auto;
-  width: 500px;
-  height: 900px;
+  width: 800px;
+  height: 600px;
   background-image: url(https://images.pexels.com/photos/3783385/pexels-photo-3783385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
 }
 
-.col-4 {
+.col-2 {
   border: 1px solid white;
   border-radius: 40px;
   width: 100px;
