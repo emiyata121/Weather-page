@@ -37,9 +37,9 @@ function displayForecast(response) {
   let forecastHTML = `<div class="row">`;
   days.forEach(function (forecastDay, index) {
     if (index < 6) {
-    forecastHTML =
-      forecastHTML +
-      `
+      forecastHTML =
+        forecastHTML +
+        `
       <div class="col-2">
         <div class="weather-forecast-date">${formatDay(forecastDay.dt)}</div>
         <img
@@ -51,14 +51,15 @@ function displayForecast(response) {
         />
         <div class="weather-forecast-temperatures">
          <span class="weather-forecast-temperature-min"> ${Math.round(
-            forecastDay.temp.min
-          )}° | </span><span class="weather-forecast-temperature-max"> ${Math.round(
-           forecastDay.temp.max
-         )}° </span>
+           forecastDay.temp.min
+         )}° | </span><span class="weather-forecast-temperature-max"> ${Math.round(
+          forecastDay.temp.max
+        )}° </span>
           
         </div>
       </div>
   `;
+    }
   });
 
   forecastHTML = forecastHTML + `</div>`;
