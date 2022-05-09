@@ -77,7 +77,6 @@ li {
   background-color: transparent !important;
   color: white;
   transition: all 200ms ease-in-out;
-  display: block;
   margin: 10px 0 auto;
 }
 
