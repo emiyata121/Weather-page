@@ -27,7 +27,7 @@ li {
   width: 350px;
   border-radius: 5px;
   border: 1px solid #549cb0;
-  position: fixed;
+
 }
 
 .container {
@@ -63,7 +63,6 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   margin: 10px 0 auto;
-  position: fixed;
 }
 
 .btn-primary:hover {
