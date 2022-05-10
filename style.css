@@ -81,7 +81,7 @@ li {
   color: #549cb0;
   background-color: white !important;
   border: 1px solid white;
-  width: 100px;
+  width: 100%;
   border-radius: 5px;
   cursor: pointer;
 }
