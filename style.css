@@ -75,7 +75,6 @@ li {
   transition: all 200ms ease-in-out;
   margin: 10px 0 auto;
   display: block;
-  padding: 0!important;
 }
 
 .btn-primary:hover {
