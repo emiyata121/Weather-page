@@ -27,7 +27,6 @@ li {
   width: 350px;
   border-radius: 5px;
   border: 1px solid #549cb0;
-  display: block;
   position: relative;
 }
 
@@ -64,7 +63,6 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   margin: 10px 0 auto;
-  display: block;
   position: relative;
 }
 
