@@ -27,8 +27,6 @@ li {
   width: 300px;
   border-radius: 5px;
   border: 1px solid #549cb0;
-  direction:rtl; 
-  overflow:auto; 
 }
 
 .container {
@@ -63,9 +61,7 @@ li {
   background-color: transparent !important;
   color: white;
   transition: all 200ms ease-in-out;
-  margin: 10px 10px auto;
-  direction:rtl; 
-  overflow:auto; 
+ 
 }
 
 .btn-primary:hover {
