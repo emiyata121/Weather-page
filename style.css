@@ -64,7 +64,7 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   margin: 10px 0 auto;
-  display: block;
+  display: inline-block;
 }
 
 .btn-primary:hover {
@@ -92,7 +92,7 @@ li {
   margin: 0;
 }
 
-#temperature{
+#temperature {
   color: white;
   font-size: 50px;
   text-align: center;
