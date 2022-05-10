@@ -102,8 +102,7 @@ li {
   margin: 0;
 }
 
-.temperature,
-.unit {
+.temperature{
   display: inline-block;
   color: white;
   margin-top: 10px;
