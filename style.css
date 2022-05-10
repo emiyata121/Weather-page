@@ -24,7 +24,7 @@ li {
 
 #city-input {
   margin: 10px 10px auto;
-  width: 300px;
+  width: 400px;
   border-radius: 5px;
   border: 1px solid #549cb0;
 }
@@ -57,7 +57,7 @@ li {
   text-align: center;
   border-radius: 5px;
   border: 1px solid #549cb0;
-  width: 100px;
+  width: 120px;
   background-color: transparent !important;
   color: white;
   transition: all 200ms ease-in-out;
