@@ -22,11 +22,6 @@ li {
   color: white;
 }
 
-.units {
-  text-align: center;
-  color: white;
-}
-
 #city-input {
   margin: 10px 0 auto;
   width: 350px;
@@ -97,7 +92,7 @@ li {
   margin: 0;
 }
 
-.temperature{
+#temperature{
   color: white;
   font-size: 50px;
   text-align: center;
