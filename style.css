@@ -99,6 +99,7 @@ li {
 
 .temperature{
   color: white;
+  font-size: 50px;
   text-align: center;
   margin-top: 10px;
 }
