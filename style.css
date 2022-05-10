@@ -23,8 +23,8 @@ li {
 }
 
 #city-input {
-  margin: 10px 0 auto;
-  width: 350px;
+  margin: 10px 10px auto;
+  width: 200px;
   border-radius: 5px;
   border: 1px solid #549cb0;
   position: relative;
@@ -58,11 +58,11 @@ li {
   text-align: center;
   border-radius: 5px;
   border: 1px solid #549cb0;
-  width: 60%;
+  width: 100px;
   background-color: transparent !important;
   color: white;
   transition: all 200ms ease-in-out;
-  margin: 10px 0 auto;
+  margin: 10px 10px auto;
   position: relative;
 }
 
