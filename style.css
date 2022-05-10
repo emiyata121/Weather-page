@@ -37,12 +37,9 @@ li {
   width: 350px;
   border-radius: 5px;
   border: 1px solid #549cb0;
+  display: inline-block;
 }
 
-#search-form {
-    text-align: center;
-
-}
 
 .container {
   text-align: centerS;
@@ -78,6 +75,7 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   margin: 10px 0 auto;
+  display: inline-block;
 }
 
 .btn-primary:hover {
