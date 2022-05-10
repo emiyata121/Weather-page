@@ -27,15 +27,15 @@ li {
   width: 350px;
   border-radius: 5px;
   border: 1px solid #549cb0;
-
+  position: relative;
 }
 
 .container {
   text-align: centerS;
   border: 1px solid #549cb0;
-  border-radius: 5px;
+  border-radius: 7px;
   margin: 40px auto;
-  max-width: 800px;
+  max-width: 600px;
   height: 800px;
   background-image: url(https://images.pexels.com/photos/3783385/pexels-photo-3783385.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
   background-repeat: no-repeat;
@@ -63,6 +63,7 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   margin: 10px 0 auto;
+  position: relative;
 }
 
 .btn-primary:hover {
