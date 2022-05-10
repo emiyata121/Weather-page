@@ -8,11 +8,6 @@ h1 {
   color: white;
 }
 
-h2 {
-  text-align: center;
-  color: white;
-}
-
 ul {
   text-align: center;
   margin: 0;
@@ -104,6 +99,7 @@ li {
 
 .temperature{
   color: white;
+  text-align: center;
   margin-top: 10px;
 }
 
