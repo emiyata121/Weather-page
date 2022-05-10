@@ -29,6 +29,7 @@ li {
   border: 1px solid #549cb0;
   position: relative;
   overflow-x: scroll;
+  display: block;
 }
 
 .container {
@@ -64,6 +65,7 @@ li {
   color: white;
   transition: all 200ms ease-in-out;
   margin: 10px 10px auto;
+  display: block;
   position: relative;
   overflow-x: scroll;
 }
